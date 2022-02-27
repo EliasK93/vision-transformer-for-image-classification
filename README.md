@@ -51,11 +51,15 @@ Model training and inference is implemented using the computer vision wrapper [H
 ##### - Conda
   - `pytorch==1.7.1`
   - `cudatoolkit=10.1`
+  - `opencv`
 
 ##### - pip
   - `transformers`
   - `hugsvision`
-  - `pandas`
+  - `numpy`
+  - `tqdm`
+  - `Pillow`
+  - `sklearn`
 
 <br>
 
